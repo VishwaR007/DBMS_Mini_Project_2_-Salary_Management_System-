@@ -1,0 +1,6 @@
+train: E:\AIML\ZIP_TAG_PROJECT\attempt_06\train
+val: E:\AIML\ZIP_TAG_PROJECT\attempt_06\test
+
+nc: 1
+
+names: ['head']
